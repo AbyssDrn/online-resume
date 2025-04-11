@@ -20,5 +20,6 @@ Welcome to my **personal online resume**, built using only **HTML** as part of m
 ## 📌 Live Preview
 
 Want to see it in action? 
+https://abyssdrn.github.io/online-resume/
 
 
