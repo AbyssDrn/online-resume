@@ -19,7 +19,10 @@ Welcome to my **personal online resume**, built using only **HTML** as part of m
 
 ## 📌 Live Preview
 
-Want to see it in action? 
-https://abyssdrn.github.io/online-resume/
+🔗 [Click here to view my online resume](https://abyssdrn.github.io/online-resume/)
+
+## 💡 Note
+
+This project is part of my ongoing journey to become a full-stack developer. More updates and styling improvements are coming soon!
 
 
